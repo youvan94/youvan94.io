@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.onsearch.creapp.agoto",
+    "sha256_cert_fingerprints":
+    ["FF:FE:77:FC:B3:1C:8E:03:27:DE:56:9E:4A:B7:5F:8A:01:D1:12:36:A2:AF:22:68:5B:01:84:E0:1B:EF:B6:EB"]
+  }
+}]
